@@ -1,4 +1,4 @@
-# Aplikasi Pengadaan Barang<br/>
+# Aplikasi Forecasting <br/>
 ## Free Source Code<br/>
 
 ### Aplikasi ini dibuat menggunakan
@@ -9,5 +9,5 @@
 - Chart.js
 
 ### Keterangan <br/>
-Database : <code>ci_barang</code><br/>
+Database : <code>db_peramalan</code><br/>
 <br/>
